@@ -8,9 +8,9 @@
 #define API_LOCAL std::string("ux0:/data/VitaHbBrowser/homebrews.yaml")
 
 #define ICONS_FOLDER std::string("ux0:/data/VitaHbBrowser/icons")
-#define ICON_URL_PREFIX std::string("https://rinnegatamante.it/vitadb/icons/")
+#define ICON_URL_PREFIX std::string("https://raw.githubusercontent.com/nkrapivin/psmbb-database/master/")
 
-#define SERVER_BASE_URL std::string("https://rinnegatamante.it/vitadb/")
+#define SERVER_BASE_URL std::string("https://raw.githubusercontent.com/nkrapivin/psmbb-database/master/")
 #define SCREENSHOTS_FOLDER std::string("ux0:/data/VitaHbBrowser/screenshots")
 
 enum {
